@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="85.599998mm"
+   height="53.98mm"
+   viewBox="0 0 323.52756 204.01889"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.48373005"
+     inkscape:cx="159.17969"
+     inkscape:cy="273.9131"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text3662" />
+  <defs
+     id="defs2">
+    <rect
+       x="8.2690748"
+       y="-4.1345374"
+       width="314.22484"
+       height="202.59233"
+       id="rect3664" />
+    <rect
+       x="-2.5494685"
+       y="0.5098937"
+       width="313.58463"
+       height="193.75961"
+       id="rect2937" />
+  </defs>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text2935"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;line-height:1.25;font-family:Pacifico;-inkscape-font-specification:'Pacifico, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2937);fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(1.1264057,0,0,1.283275,-14.838512,32.994995)"><tspan
+         x="-2.5488281"
+         y="309.87288"
+         id="tspan5703"><tspan
+           dx="0 93.332939 66.933022 32.799698 52.399811 54.799759 52.399841 56.932922 64.133026 62.666443 49.066284"
+           id="tspan5701">white-space</tspan></tspan></text>
+  </g>
+  <g
+     aria-label="wiki"
+     transform="translate(-8.6854636,34.229294)"
+     id="text3662"
+     style="font-size:40px;line-height:1.25;white-space:pre;shape-inside:url(#rect3664)" />
+</svg>
