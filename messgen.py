@@ -94,7 +94,7 @@ def headerprint():
                 
                 <!-- SEO Meta Tags -->
                 <meta name="description" content="Sync is a landing page HTML template built with Bootstrap 4 for presenting mobile apps to the online audience and for getting visitors to become users.">
-                <meta name="author" content="Inovatik">
+                <meta name="author" content="Siddhanth">
 
                 <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
                 <meta property="og:site_name" content="" /> <!-- website name -->
